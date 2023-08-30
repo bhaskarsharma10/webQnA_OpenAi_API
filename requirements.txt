@@ -1,0 +1,8 @@
+pandas
+matplotlib
+bs4
+numpy
+requests
+tiktoken
+openai
+python-dotenv
