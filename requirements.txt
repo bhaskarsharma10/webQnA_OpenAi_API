@@ -6,3 +6,6 @@ requests
 tiktoken
 openai
 python-dotenv
+plotly
+scikit-learn
+scipy
