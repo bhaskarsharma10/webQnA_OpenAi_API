@@ -7,5 +7,6 @@ tiktoken
 openai
 python-dotenv
 plotly
+flask
 scikit-learn
 scipy
