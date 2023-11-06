@@ -101,6 +101,7 @@ def answer_question(
 
 
 
+'''
 conversation = []
 
 # Main chat loop
@@ -121,5 +122,4 @@ while True:
     conversation.append({"role": "chatbot", "content": chatbot_response})
     
     print("Chatbot:", chatbot_response)
-
-    
+'''
